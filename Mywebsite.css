@@ -1,0 +1,77 @@
+.B{
+    background-color:lightpink;
+    background-image: url(/Project-1.1/images/logo-ccsashs.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.C{
+    text-decoration: none;
+    color: #ff1100;
+    font-size: larger;
+}
+.D{
+  text-decoration: none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: #ff1100;
+}
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    background-color: lightyellow;
+  }
+  
+  li a {
+    display:block;
+    color: #000;
+    padding: 20px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #222121;
+    color: #ffffff;
+  }
+.drpdwn{
+    position: relative;
+    display: inline-block;
+}
+.dropbtn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffe0;
+    color: #000000;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px #06060633;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: #000000;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: inline-block;
+  }
+  .dropdown:hover .dropbtn {
+    background-color:#222121;
+  }
+.E{
+    text-align: center;
+    color: #ff1100;
+}
+

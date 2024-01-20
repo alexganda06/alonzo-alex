@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Q2W2.1</title>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <span class="logo-my">MY</span><span class="logo-web">WEB</span>
+                <a class="nav-color" href="#">HOME</a> |
+                <a class="nav-color" href="#">ABOUT</a> |
+                <a class="nav-color" href="#">CONTACT US</a> |
+            </nav><hr class="hr-color">
+        </header>
+        <main class="main-bgcolor-1">
+            <section>
+                <img src="Task-8.2/images/image-1.png" class="align-img">
+                <h2>Introduce Your Product<br>Quickly & Effectively</h2>
+                <h4 class="align-font">Lorem ipsum dolor sit amet, consectetuer adipiscing
+                <br> elit. Aenean commondo ligula eget dolor. Aenean
+                <br> massa. cum sociis natoque penatibus et magnis dis
+                <br> parturient montes, nascetur ridiculus mus. Donec
+                <br> quam felis, ultricies nec, pellentesque eu, pretium
+                <br> quis, sem. Nulla consequat massa quis enim
+                </h4>
+            </section>
+            <section>
+                <a class="href-color-1" href="/learnmore/"><bold><h5>LEARN MORE</h5></bold></a>
+                <hr class="hr-color">
+                <div class="div-bgcolor-2"><strong>MY VIDEO</strong>
+                    <video class="video" controls>
+                        <source src="video/vid-ccsashs-song.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </section>
+            <section class="lorem-2">
+                    <img src="Task-8.2/images/image-2.png" alt="wiki" width="250">
+                    <h2 >Introduce Your Product
+                    <br> Quickly & Effectively</h2>
+                    <br> Lorem ipsum dolor sit amet,.
+                    <br> consectetuer adipiscing elit.
+                    <br> Aenean commondo ligula eget
+                    <br> dolor. Aenean massa. cum sociis
+                    <br> natoque penatibus et magnis dis
+                    <br> parturient montes, nascetur
+                    <br> ridiculus mus. Donec quam felis,
+                    <br> ultricies nec, pellentesque eu,
+                    <br> pretium quis, sem. Nulla
+                    <br> consequat massa quis enim
+            </section>
+        </main>
+        <footer>
+            <div class="div-bgcolor-3">
+            <br><h5>MY<small>WEB</small><br><sub>Cauayan City Stand-Alone Senior High School</sub>
+            <br><sub><i>P. Albano Street, Barangay Turayong, Cauayan City, Isabela</i></sub></h5>
+            <hr class="hr-color">
+            <img src="Task-8.2/images/icon-facebook.png" alt="hihi" align="right" style="margin: 5px;">
+            <img src="Task-8.2/images/icon-instagram.png" alt="hihi" align="right" style="margin: 5px;">
+            <img src="Task-8.2/images/icon-linkedin.png" alt="hihi" align="right" style="margin: 5px;">
+            <img src="Task-8.2/images/icon-twitter.png" alt="hihi" align="right" style="margin: 5px;">
+            <img src="Task-8.2/images/icon-youtube.png" alt="hihi" align="right" style="margin: 5px;">
+            </div>
+        </footer>
+    </body>
